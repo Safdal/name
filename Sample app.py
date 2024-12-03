@@ -2,7 +2,7 @@ from kiteconnect import KiteConnect, KiteTicker
 import datetime
 
 # API credentials (replace with your API Key and Access Token)
-api_key = ""your_api_key"
+api_key = "vhq0v8vp2714v3sj"
 api_secret = "your_api_secret"
 access_token = "your_access_token"
 
